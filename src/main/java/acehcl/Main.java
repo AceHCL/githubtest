@@ -12,6 +12,7 @@ public class Main {
     System.out.println("acehcl");
     System.out.println("chish");
     System.out.println("hadfioadjf");
+    System.out.println("chishi");
     //fadsfa
     System.out.println("fad");
   }
