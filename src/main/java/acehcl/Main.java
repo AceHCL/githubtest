@@ -13,5 +13,6 @@ public class Main {
     System.out.println("chish");
     System.out.println("hadfioadjf");
     //fadsfa
+    System.out.println("fad");
   }
 }
